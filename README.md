@@ -26,3 +26,6 @@ Once installed the user can link a wallet with their account and begin buying/se
 #### www.view.exchange/
 
 ##
+
+Also check us out on twitter!
+https://twitter.com/nftviewexchange
