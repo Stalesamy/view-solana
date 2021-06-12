@@ -22,6 +22,6 @@ Once installed the user can link a wallet with their account and begin buying/se
 
 ##
 
-#### www.View.Exchange/
+#### View.Exchange/
 
 ##
